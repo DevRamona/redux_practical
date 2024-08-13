@@ -3,7 +3,7 @@ import React from 'react'
 function Login() {
   return (
     <>
-    <button>Login</button>
+    <button className='border px-4 '>Login</button>
     </>
   )
 }
